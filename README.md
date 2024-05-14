@@ -32,6 +32,24 @@ Calendar + To-do List app
 # 이진우
 
 # 이채원
+투두리스트 기능
+
+- 투두 추가
+- 투두 삭제
+- 투두 수정
+
+투두리스트 사용 기술
+
+- Adapter
+- Room Database 사용 및 Model
+- Repository
+- ViewModel
+- Recyclerview
+
+참고 아티클
+[https://medium.com/@abeythilakeudara3/todo-list-app-with-room-database-kotlin-mvvm-architecture-c5ec5d29366c](https://medium.com/@abeythilakeudara3/todo-list-app-with-room-database-kotlin-mvvm-architecture-c5ec5d29366c)
+
+[https://velog.io/@hyooosong/Android-Room](https://velog.io/@hyooosong/Android-Room)
 
 # 임석현
 캘린더 구현
