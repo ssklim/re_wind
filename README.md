@@ -47,6 +47,7 @@ Calendar + To-do List app
 - Recyclerview
 
 참고 아티클
+
 [https://medium.com/@abeythilakeudara3/todo-list-app-with-room-database-kotlin-mvvm-architecture-c5ec5d29366c](https://medium.com/@abeythilakeudara3/todo-list-app-with-room-database-kotlin-mvvm-architecture-c5ec5d29366c)
 
 [https://velog.io/@hyooosong/Android-Room](https://velog.io/@hyooosong/Android-Room)
